@@ -4,6 +4,7 @@
 #   simple bash script 
 #   to randomly choose
 #   a student to present
+# Your task:
 # Please look into a way to ..
 # shorten and improve the code
 #
